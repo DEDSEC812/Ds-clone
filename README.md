@@ -25,3 +25,13 @@ Ouvrez un terminal et exécutez la commande suivante :
 
 ```bash
 pip install requests beautifulsoup4 colorama pyfiglet
+
+```bash
+pkg install git
+
+```bash
+git clone https://github.com/DEDSEC812/Ds-clone
+```bash
+cd Ds-clone
+```bash
+python ds-clone.py
