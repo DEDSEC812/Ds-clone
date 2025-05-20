@@ -1,4 +1,4 @@
-       ![Aperçu du projet](Screenshot_20250519-230839.jpg)
+
 # Cloneur de Sites Web - DS Tools
 
 Bienvenue dans **DS Cloneur**, un outil Python simple et puissant permettant de cloner l’interface d’un site web (HTML, CSS, JS, images, polices, etc.), sans les fichiers backend.
